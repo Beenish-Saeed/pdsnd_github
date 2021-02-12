@@ -14,8 +14,8 @@ This project focuses on pandas library usage and simple statistics methods to pe
 
 
 ### CreditsAcknowledgements:
-•	pandas docs <
-•	Udacity 
-•	Data Science Tutorials.
+•       <a href="https://pandas.pydata.org/pandas-docs/stable/">pandas docs</a>
+•	<a href="https://www.udacity.com/">Udacity</a>
+•	<a href="https://www.youtube.com/watch?v=WPECU2BPxIY&list=PLH6mU1kedUy8X0xC1-LOjIds9gaIFzd1N">Data Science Tutorials</a>
 
 
