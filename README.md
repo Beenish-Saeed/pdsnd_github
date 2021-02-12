@@ -1,15 +1,21 @@
-### Date created
-Include the date you created this project and README file.
+### 11-02-2021.
 
-### Project Title
-Replace the Project Title
+### Bikeshare Project of Udacity
 
-### Description
-Describe what your project is about and what it does
 
-### Files used
-Include the files used
+### Project indication
+This project focuses on pandas library usage and simple statistics methods to perform a basic analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+### Project Data:
+•	chicago.csv - Dataset containing all bikeshare information for the city of Chicago provided by Udacity.
+•	new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
+•	washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. 
+
+
+### CreditsAcknowledgements:
+•	pandas docs <
+•	Udacity 
+•	Data Science Tutorials.
+
 
